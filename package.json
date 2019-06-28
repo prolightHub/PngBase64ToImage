@@ -1,0 +1,15 @@
+{
+  "name": "loadimage",
+  "version": "1.0.0",
+  "description": "Loads an image from base64 without using image.src",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prolightHub",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^16.2.3",
+    "pngjs": "^3.4.0"
+  }
+}
